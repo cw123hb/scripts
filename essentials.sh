@@ -1,9 +1,6 @@
 #!/bin/bash
 sudo apt-get install -y \
-  apt-transport-https \
-  apt-utils \
-  ca-certificates \
-  locales \
+  apt-transport-https \  
   gnupg2 \
   software-properties-common \
   wget
