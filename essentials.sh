@@ -18,6 +18,7 @@ sudo apt-get install -y \
   borgbackup \
   tmux \
   tree \ 
+  mc \
   vim \
   visidata \
   
