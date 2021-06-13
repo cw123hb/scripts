@@ -58,4 +58,7 @@ wget https://github.com/gopasspw/gopass/releases/download/v1.9.0/gopass_1.9.0_li
 sudo dpkg -i /tmp/gopass.deb
 # chmod a+x
 
+# Setup TUN
+# setup nebula
+
 
